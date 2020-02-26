@@ -5,3 +5,5 @@ Git&amp;Github intro &amp; practice basic commands
 Working Directory
 Staging Area
 Repository
+
+#Commands for moving through states of Git
